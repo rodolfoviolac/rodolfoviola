@@ -1,7 +1,7 @@
 {
-  "name": "rauchg",
+  "name": "rodolfoviola",
   "version": "3.0.0",
-  "description": "Guillermo Rauch",
+  "description": "Rodolfo Viola",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat index.json"
@@ -11,6 +11,6 @@
     "contact"
   ],
   "main": "./index.json",
-  "author": "Guillermo Rauch",
+  "author": "Rodolfo Viola",
   "license": "ISC"
 }
