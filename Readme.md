@@ -1,8 +1,6 @@
 
 # Rodolfo Viola
 
-![](https://cldup.com/tBDGZcr8jt.gif)
-
 ```bash
 $ npm install rodolfoviola
 ```
